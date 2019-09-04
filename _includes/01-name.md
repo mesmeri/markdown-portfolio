@@ -1,3 +1,3 @@
-#Header
-#yourEuphoria
-#some header
+# Header
+# yourEuphoria
+# some header
